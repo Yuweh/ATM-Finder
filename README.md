@@ -3,6 +3,9 @@
 
 
 
+WEB API:
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=14.5838,121.0597&radius=5000&keyword=atm&key=AIzaSyAqVn11MrD5nHQ4YPZEC_jmPOujbRng23Y
+
 Referrences:
 
 Corelocation + GoogleMaps = 
