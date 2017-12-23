@@ -1,6 +1,20 @@
 # ATM-Finder
 [![forthebadge](http://forthebadge.com/images/badges/made-with-swift.svg)](http://forthebadge.com) [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
+TO DO:
+
+1.) Use google api for place search via the url request, check this link :
+https://developers.google.com/places/web-service/search#PlaceSearchRequests
+there is a type parameter which you can use to restrict the result.
+
+2.) Get the result in josn and parse it, get the places and make marker for each place
+this way you can find a specific type of places.
+
+3.) Build your own activity/dialog to show a map with places then select the place you want
+
+REF: https://issuetracker.google.com/issues/35826944
+
+
 
 
 WEB API:
